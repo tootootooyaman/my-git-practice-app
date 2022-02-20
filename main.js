@@ -30,4 +30,5 @@ const memoApp = {
     },
   },
 };
+
 Vue.createApp(memoApp).mount("#app");
